@@ -14,8 +14,8 @@ Please use issues and create branches to make suggestions and comments.
   * Ray Tracing
   * Rendering APIs
     * D3D12
-  * Compressed Textures
   * Optimisations
+    * Compressed Textures
     * Frustrum Culling
     * Precomputed Lighting
 * Physics
@@ -61,11 +61,6 @@ Please use issues and create branches to make suggestions and comments.
 
 [*DirectX 12* - Microsoft DirectX12 and Graphics Education](https://youtube.com/playlist?list=PLeHvwXyqearWT_NT7CiGm_kEiKabWNPKw)
 
-## Compressed Textures
-[DirectX's Compressed Textures Resources](https://docs.microsoft.com/en-us/windows/win32/direct3d9/compressed-texture-resources)
-
-[*DXT is NOT ENOUGH! Advanced texture compression for games* - GDC](https://youtu.be/7bJ-D1xXEeg)
-
 ## Optimisations
 [*Performance Guide* - GPUOpen](https://gpuopen.com/performance)
 
@@ -74,6 +69,12 @@ Please use issues and create branches to make suggestions and comments.
 [*Geometry Caching Optimizations in Halo 5: Guardians* - GDC](https://youtu.be/uYAjUOlEgwI)
 
 [*Visible Surface Algorithms* - UC Davis Academics](https://youtu.be/hmlWFi1TdbI)
+
+### Compressed Textures
+[DirectX's Compressed Textures Resources](https://docs.microsoft.com/en-us/windows/win32/direct3d9/compressed-texture-resources)
+
+[*DXT is NOT ENOUGH! Advanced texture compression for games* - GDC](https://youtu.be/7bJ-D1xXEeg)
+
 ### Occulusion Culling
 [*Frustrum Calculation and Culling, Hopefully Demystified* - David Lively](http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/)
 
