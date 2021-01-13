@@ -20,6 +20,7 @@ Please use issues and create branches to make suggestions and comments.
     * Precomputed Lighting
 * Physics
 * Game Logic
+  * ECS
   * Concurrency
   * Game Content
     * Maps
@@ -77,8 +78,27 @@ Please use issues and create branches to make suggestions and comments.
 
 
 # Physics
+## Collision Detection
+[*Physics for Game Programmers; Continous Collision* - GDC](https://youtu.be/7_nKOET6zwI)
+
+[*Convx Polygon Collisions* - javidx9](https://youtu.be/7Ik2vowGcU0)
+
+[*GJK Algorithm Explanation & Implementation* - Winterdev](https://youtu.be/MDusDn8oTSE)
+
+[*Handmade Hero Day 050 - Basic Minkowski-based Collision Detection* - Molly Rocket](https://youtu.be/_g8DLrNyVsQ)
+
+## Physics Engines
+[*The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?* - Reducible](https://youtu.be/h7apO7q16V0)
+
+[*Physics for Game Programmers: Understanding Constraints* - GDC](https://youtu.be/SHinxAhv1ZE)
+
+[*Valve's Physics for Game Programmers* - GDC](https://youtu.be/1RphLzpQiJY)
+
+[*A/B Testing for Game Design Iteration: A Bayesian Approach* - GDC](https://youtu.be/-OfmPhYXrxY)
 
 # Game Logic
+## ECS
+[*A Simple Entity Component System (ECS) [C++]* - Austin Morlan](https://austinmorlan.com/posts/entity_component_system/)
 ## Game Contnt
 ### Maps
 [*Valve's BSP Map Format* - VDC](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format)
