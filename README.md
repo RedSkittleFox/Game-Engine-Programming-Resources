@@ -139,7 +139,7 @@ DigiPen Game Engine Architecture Club](https://youtu.be/wPKzwSxyhTI)
 ## ECS
 [*A Simple Entity Component System (ECS) [C++]* - Austin Morlan](https://austinmorlan.com/posts/entity_component_system/)
 [*Implementation of a multithreaded compile-time ECS in C++14* - Vittorio Romeo](https://youtu.be/3N1pLtTV2Uc)
-## Game Contnt
+## Game Content
 ### Maps
 [*Valve's BSP Map Format* - VDC](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format)
 
