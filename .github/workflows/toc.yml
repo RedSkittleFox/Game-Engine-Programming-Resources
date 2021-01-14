@@ -1,0 +1,8 @@
+on: push
+name: Table of Contents Generator
+jobs:
+  generateTOC:
+    name: TOC Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v3
