@@ -8,26 +8,40 @@ This document is not fit for people with basic programming knowledge. Please acq
 Please use issues and create branches to make suggestions and comments.
 
 # Table of Contents
-<!-- START doctoc -->
-* Memory Management
-  * GPU Memory Management
-* Rendering
-  * Ray Tracing
-  * Rendering APIs
-    * D3D12
-  * Optimisations
-    * Compressed Textures
-    * Frustrum Culling
-    * Precomputed Lighting
-* Physics
-* Game Logic
-  * ECS
-  * Concurrency
-  * Game Content
-    * Maps
-* Networking
-* Debugging and Developer Tools
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Memory Management](#memory-management)
+  - [GPU Memory Management](#gpu-memory-management)
+- [Rendering](#rendering)
+  - [Rendering](#rendering-1)
+  - [Ray Tracing](#ray-tracing)
+  - [Rendering APIs](#rendering-apis)
+    - [OpenGL](#opengl)
+    - [D3D11](#d3d11)
+    - [D3D12](#d3d12)
+  - [Optimisations](#optimisations)
+    - [Compressed Textures](#compressed-textures)
+    - [Occulusion Culling](#occulusion-culling)
+    - [Precomputed Lighting](#precomputed-lighting)
+- [Physics](#physics)
+  - [Collision Detection](#collision-detection)
+  - [Physics Engines](#physics-engines)
+- [Game Logic](#game-logic)
+  - [AI](#ai)
+  - [ECS](#ecs)
+  - [Game Content](#game-content)
+    - [Maps](#maps)
+  - [Concurrency](#concurrency)
+    - [Multithreading](#multithreading)
+    - [SIMD](#simd)
+  - [Misellaneous](#misellaneous)
+- [Networking](#networking)
+- [Mathematics](#mathematics)
+- [Debugging and Developer Tools](#debugging-and-developer-tools)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Memory Management
 ## GPU Memory Management
