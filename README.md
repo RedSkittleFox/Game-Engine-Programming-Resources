@@ -8,6 +8,7 @@ This document is not fit for people with basic programming knowledge. Please acq
 Please use issues and create branches to make suggestions and comments.
 
 # Table of Contents
+<!-- START doctoc -->
 * Memory Management
   * GPU Memory Management
 * Rendering
@@ -26,6 +27,7 @@ Please use issues and create branches to make suggestions and comments.
     * Maps
 * Networking
 * Debugging and Developer Tools
+<!-- END doctoc -->
 
 # Memory Management
 ## GPU Memory Management
