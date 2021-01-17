@@ -32,6 +32,7 @@ Please use issues and create branches to make suggestions and comments.
   - [AI](#ai)
   - [ECS](#ecs)
   - [Game Content](#game-content)
+    - [Resource Management](#resource-management)
     - [Maps](#maps)
   - [Concurrency](#concurrency)
     - [Multithreading](#multithreading)
