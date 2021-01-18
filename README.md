@@ -46,162 +46,160 @@ Please use issues and create branches to make suggestions and comments.
 
 # Memory Management
 ## GPU Memory Management
-[*D3D12 Memory Allocator* - GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator)
+[*D3D12 Memory Allocator*](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator) - GPUOpen-LibrariesAndSDKs
 
 # Rendering
 ## Rendering
-[*Variance Shadow Maps* - NVidia](https://http.download.nvidia.com/developer/presentations/2006/gdc/2006-GDC-Variance-Shadow-Maps.pdf)
+[*Variance Shadow Maps*](https://http.download.nvidia.com/developer/presentations/2006/gdc/2006-GDC-Variance-Shadow-Maps.pdf) - NVidia
 
-[*Design Patterns for Low-Level Real-Time Rendering* - CppCon 2017: Nicolas Guillemot](https://youtu.be/mdPeXJ0eiGc)
+[*Design Patterns for Low-Level Real-Time Rendering*](https://youtu.be/mdPeXJ0eiGc) - CppCon 2017: Nicolas Guillemot
 
-[*Rendering the World of Far Cry 4* - GDC](https://youtu.be/rD6KcxcCl_8)
+[*Rendering the World of Far Cry 4*](https://youtu.be/rD6KcxcCl_8) - GDC 2015: Stephen McAuley
 
-[*Sand Rendering in Journey* - GDC](https://youtu.be/wt2yYnBRD3U)
+[*Sand Rendering in Journey*](https://youtu.be/wt2yYnBRD3U) - GDC 2013: John Edwards
 
-[*The Rendering of Below* - GDC](https://youtu.be/4D5uX8wL1V8)
+[*The Rendering of Below*](https://youtu.be/4D5uX8wL1V8) - GDC 2017: Colin Weick
 
-[*QuakeCon 2013: The Physics of Light and Rendering* - John Carmack](https://youtu.be/P6UKhR0T6cs)
+[*The Physics of Light and Rendering*](https://youtu.be/P6UKhR0T6cs) - QuakeCon 2013: John Carmack
 
 ## Ray Tracing
-[*Ray Tracing - Soft Shadows* - Stack Overflow](https://stackoverflow.com/a/31822904/10266364)
+[*Ray Tracing - Soft Shadows*](https://stackoverflow.com/a/31822904/10266364) - Stack Overflow
 ## Rendering APIs
 ### OpenGL
-[*OpenGL* - Brian Will](https://youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby)
+[*OpenGL*](https://youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) - OpenGL Programming Tutorial Series by Brian Will
 ### D3D11
-[*C++ 3D DirectX Programming* - ChiliTomatoNoodle](https://youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD)
+[*C++ 3D DirectX Programming*](https://youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) - D3D11 Programming Tutorial Series by ChiliTomatoNoodle
 ### D3D12
-[*Mesh Shaders* - DirectX-Specs](https://microsoft.github.io/DirectX-Specs/d3d/MeshShader.html)
+[*Mesh Shaders*](https://microsoft.github.io/DirectX-Specs/d3d/MeshShader.html) - DirectX-Specs
 
-[*DirectX Raytracing* - DirectX-Specs](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
+[*DirectX Raytracing*](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html) - DirectX-Specs
 
 [*DirectX-Specs*](https://microsoft.github.io/DirectX-Specs/)
 
-[*DirectX 12* - Microsoft DirectX12 and Graphics Education](https://youtube.com/playlist?list=PLeHvwXyqearWT_NT7CiGm_kEiKabWNPKw)
+[*DirectX 12*](https://youtube.com/playlist?list=PLeHvwXyqearWT_NT7CiGm_kEiKabWNPKw) - D3D12 Programming Tutorial Series by Microsoft
 
 ## Optimisations
-[*Performance Guide* - GPUOpen](https://gpuopen.com/performance)
+[*Performance Guide*](https://gpuopen.com/performance) - GPUOpen
 
-[*The benefits of buffr packing* - ARM Developer](https://developer.arm.com/solutions/graphics-and-gaming/developer-guides/learn-the-basics/the-benefits-of-buffer-packing/attribute-buffer-encoding)
+[*The benefits of buffr packing*](https://developer.arm.com/solutions/graphics-and-gaming/developer-guides/learn-the-basics/the-benefits-of-buffer-packing/attribute-buffer-encoding) - ARM Developer
 
-[*Geometry Caching Optimizations in Halo 5: Guardians* - GDC](https://youtu.be/uYAjUOlEgwI)
+[*Geometry Caching Optimizations in Halo 5: Guardians*](https://youtu.be/uYAjUOlEgwI) - GDC 2017: Zabir Hoque and Ben Laidlaw
 
-[*Visible Surface Algorithms* - UC Davis Academics](https://youtu.be/hmlWFi1TdbI)
+[*Visible Surface Algorithms*](https://youtu.be/hmlWFi1TdbI) - UC Davis Academics
 
 ### Compressed Textures
 [DirectX's Compressed Textures Resources](https://docs.microsoft.com/en-us/windows/win32/direct3d9/compressed-texture-resources)
 
-[*DXT is NOT ENOUGH! Advanced texture compression for games* - GDC](https://youtu.be/7bJ-D1xXEeg)
+[*DXT is NOT ENOUGH! Advanced texture compression for games*](https://youtu.be/7bJ-D1xXEeg) - GDC 2012: Colt McAnlis
 
 ### Occulusion Culling
-[*Frustrum Calculation and Culling, Hopefully Demystified* - David Lively](http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/)
+[*Frustrum Calculation and Culling, Hopefully Demystified*](http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/) - David Lively
 
-[*Frustrum Culling tutorial* - Rastertek](https://www.rastertek.com/dx10tut16.html)
+[*Frustrum Culling tutorial*](https://www.rastertek.com/dx10tut16.html) - Rastertek
 
-[*How Occlusion Culling Works* - thebennybox](https://youtube.com/playlist?list=PLEETnX-uPtBVszVeAIDl5jp5j9YT9EFae)
+[*How Occlusion Culling Works*](https://youtube.com/playlist?list=PLEETnX-uPtBVszVeAIDl5jp5j9YT9EFae) - thebennybox
 
 ### Precomputed Lighting
-[*Radiositiy* - Hugo Elias](http://web.archive.org/web/20160311085440/http://freespace.virgin.net/hugo.elias/radiosity/radiosity.htm)
+[*Radiositiy*](http://web.archive.org/web/20160311085440/http://freespace.virgin.net/hugo.elias/radiosity/radiosity.htm) - Hugo Elias
 
-[*Graphics Tech: Precomputed Lighting* - Jonathan Blow](https://web.archive.org/web/20191231233409/http://the-witness.net/news/2010/03/graphics-tech-precomputed-lighting/)
+[*Graphics Tech: Precomputed Lighting*](https://web.archive.org/web/20191231233409/http://the-witness.net/news/2010/03/graphics-tech-precomputed-lighting/) - Jonathan Blow
 
-[*Lightmap Parameterization* - Ignacio Castano](http://www.ludicon.com/castano/blog/articles/lightmap-parameterization/)
+[*Lightmap Parameterization*](http://www.ludicon.com/castano/blog/articles/lightmap-parameterization/) - Ignacio Castano
 
-[*Hemicube Rendering and Integration* - Ignacio Castano](http://www.ludicon.com/castano/blog/articles/hemicube-rendering-and-integration/)
+[*Hemicube Rendering and Integration*](http://www.ludicon.com/castano/blog/articles/hemicube-rendering-and-integration/) - Ignacio Castano
 
-[*Mesh Parameterization* - full-day course given at SIGGRAPH Asia 2007](https://www.inf.usi.ch/hormann/parameterization/index.html)
+[*Mesh Parameterization*](https://www.inf.usi.ch/hormann/parameterization/index.html) - full-day course given at SIGGRAPH Asia 2007
 
-[*D-Charts: Quasi-Developable Mesh Segmentation* - Dan Julius, Vladislav Kraevoy, Alla Sheffer](http://www.cs.ubc.ca/labs/imager/tr/2005/Vlad_DCharts/)
+[*D-Charts: Quasi-Developable Mesh Segmentation*](http://www.cs.ubc.ca/labs/imager/tr/2005/Vlad_DCharts/) - Dan Julius, Vladislav Kraevoy, Alla Sheffer
 
-[*Vector Texture Maps on the GPU* - Nicolas Ray, Thibaut Neiger, Bruno Levy, Xavier Cavin](https://www.researchgate.net/publication/248311661_Vector_texture_maps_on_the_GPU)
+[*Vector Texture Maps on the GPU*](https://www.researchgate.net/publication/248311661_Vector_texture_maps_on_the_GPU) - Nicolas Ray, Thibaut Neiger, Bruno Levy, Xavier Cavin
 
-[*Lightmap* - Wikipedia](https://en.wikipedia.org/wiki/Lightmap)
+[*Lightmap*](https://en.wikipedia.org/wiki/Lightmap) - Wikipedia
 
-[*Packing Lightmaps* - blackspawn](https://blackpawn.com/texts/lightmaps/)
+[*Packing Lightmaps*](https://blackpawn.com/texts/lightmaps/) - blackspawn
 
 # Physics
 ## Collision Detection
-[*Physics for Game Programmers; Continous Collision* - GDC](https://youtu.be/7_nKOET6zwI)
+[*Physics for Game Programmers; Continous Collision*](https://youtu.be/7_nKOET6zwI) - GDC 2013: Erin Catto
 
-[*Convx Polygon Collisions* - javidx9](https://youtu.be/7Ik2vowGcU0)
+[*Convx Polygon Collisions*](https://youtu.be/7Ik2vowGcU0) - javidx9
 
-[*GJK Algorithm Explanation & Implementation* - Winterdev](https://youtu.be/MDusDn8oTSE)
+[*GJK Algorithm Explanation & Implementation*](https://youtu.be/MDusDn8oTSE) - Winterdev
 
-[*Handmade Hero Day 050 - Basic Minkowski-based Collision Detection* - Molly Rocket](https://youtu.be/_g8DLrNyVsQ)
+[*Handmade Hero Day 050 - Basic Minkowski-based Collision Detection*](https://youtu.be/_g8DLrNyVsQ) - Molly Rocket
 
 ## Physics Engines
-[*The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?* - Reducible](https://youtu.be/h7apO7q16V0)
+[*The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?*](https://youtu.be/h7apO7q16V0) - Reducible
 
-[*Physics for Game Programmers: Understanding Constraints* - GDC](https://youtu.be/SHinxAhv1ZE)
+[*Physics for Game Programmers: Understanding Constraints*](https://youtu.be/SHinxAhv1ZE) - GDC 2014: Erin Catto
 
-[*Valve's Physics for Game Programmers* - GDC](https://youtu.be/1RphLzpQiJY)
+[*Valve's Physics for Game Programmers*](https://youtu.be/1RphLzpQiJY) - GDC 2014: Sergiy Migdalskiy
 
-[*A/B Testing for Game Design Iteration: A Bayesian Approach* - GDC](https://youtu.be/-OfmPhYXrxY)
+[*A/B Testing for Game Design Iteration: A Bayesian Approach*](https://youtu.be/-OfmPhYXrxY) - GDC 2014: Steven Collins 
 
-[*Intro to Game Physics* - 
-DigiPen Game Engine Architecture Club](https://youtu.be/wPKzwSxyhTI)
+[*Intro to Game Physics*](https://youtu.be/wPKzwSxyhTI) - 
+DigiPen Game Engine Architecture Club
 
-[*Supercharged! Vehicle Physics in Skylanders* - GDC](https://youtu.be/Db1AgGavL8E)
+[*Supercharged! Vehicle Physics in Skylanders*](https://youtu.be/Db1AgGavL8E) - GDC 2016: Jan Erik Steel & Patrick Donnelly
 
-[*Designing with Physics: Bend the Physics Engine to Your Will* - GDC](https://youtu.be/NwPIoVW65pE)
+[*Designing with Physics: Bend the Physics Engine to Your Will*](https://youtu.be/NwPIoVW65pE) - GDC 2015: Bennett Foddy
 
-[*3D Physics Engine Tutorial* ](https://youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0)
+[*3D Physics Engine Tutorial* ](https://youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) - thebennybox
 
 # Game Logic
 ## AI
-[*Nuts and Bolts: Modular AI From the Ground Up* - GDC](https://youtu.be/IvK0ZlNoxjw)
+[*Nuts and Bolts: Modular AI From the Ground Up*](https://youtu.be/IvK0ZlNoxjw) - GDC 2016: Kevin Dill, Christopher Dragert & Troy Humphreys
 
-[*Bringing Hell to Life: AI and Full Body Animation in DOOM* - GDC](https://youtu.be/3lO1q8mQrrg)
+[*Bringing Hell to Life: AI and Full Body Animation in DOOM*](https://youtu.be/3lO1q8mQrrg) - GDC 2017: Jake Campbell
 
-[*Modular, Reusable Social Behavior In Video Game AI* - GDC](https://youtu.be/BSoB19aE9RM)
+[*Modular, Reusable Social Behavior In Video Game AI*](https://youtu.be/BSoB19aE9RM) - GDC 2014: Michael Mateas & Bill Ferguson 
 
 ## ECS
-[*A Simple Entity Component System (ECS) [C++]* - Austin Morlan](https://austinmorlan.com/posts/entity_component_system/)
+[*A Simple Entity Component System (ECS) [C++]*](https://austinmorlan.com/posts/entity_component_system/) - Austin Morlan
 
-[*Implementation of a multithreaded compile-time ECS in C++14* - Vittorio Romeo](https://youtu.be/3N1pLtTV2Uc)
+[*Implementation of a multithreaded compile-time ECS in C++14*](https://youtu.be/3N1pLtTV2Uc) - Vittorio Romeo
 ## Game Content
 ### Resource Management
-[*Pak files - Virtual file system* - Simon Coenen](https://simoncoenen.com/blog/programming/PakFiles.html)
+[*Pak files - Virtual file system*](https://simoncoenen.com/blog/programming/PakFiles.html) - Simon Coenen
 
 ### Maps
-[*Valve's BSP Map Format* - VDC](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format)
+[*Valve's BSP Map Format*](https://developer.valvesoftware.com/wiki/Source_BSP_File_Format) - VDC
 
-[*Half-space (geometry)* - Wikipedia](https://en.wikipedia.org/wiki/Half-space_(geometry))
+[*Half-space (geometry)*](https://en.wikipedia.org/wiki/Half-space_(geometry)) - Wikipedia
 
-[*Computational Geometry* - Phylip Kindermann](https://www.youtube.com/playlist?list=PLubYOWSl9mIuVdf6VnLIrtF9Y0Sa4Dvoq&pbjreload=102)
+[*Computational Geometry*](https://www.youtube.com/playlist?list=PLubYOWSl9mIuVdf6VnLIrtF9Y0Sa4Dvoq&pbjreload=102) - Phylip Kindermann
 
 ## Concurrency
 ### Multithreading
-[*Using Synchronization* - MSDN](https://docs.microsoft.com/en-us/windows/win32/sync/using-synchronization)
+[*Using Synchronization*](https://docs.microsoft.com/en-us/windows/win32/sync/using-synchronization) - MSDN
 ### SIMD
-[*SIMD and Vectorization: Parallelism in C++(multitasking on single core)* - Bisqwit](https://youtu.be/Pc8DfEyAxzg)
+[*SIMD and Vectorization: Parallelism in C++(multitasking on single core)*](https://youtu.be/Pc8DfEyAxzg) - Bisqwit
 
-[*C++ SSE Optimization* - ChiliTomatoNoodle](https://youtube.com/playlist?list=PLqCJpWy5FohfwOaELrhGqJlBF14xaSB_Y)
+[*C++ SSE Optimization*](https://youtube.com/playlist?list=PLqCJpWy5FohfwOaELrhGqJlBF14xaSB_Y) - ChiliTomatoNoodle
 
 ## Misellaneous
-[*Practical Procedural Generation for Everyone* - GDC](https://youtu.be/WumyfLEa6bU)
+[*Practical Procedural Generation for Everyone*](https://youtu.be/WumyfLEa6bU) - GDC 2017: Kate Compton
 
-[*IK Rig: Procedural Pose Animation* - GDC](https://youtu.be/KLjTU0yKS00)
+[*IK Rig: Procedural Pose Animation*](https://youtu.be/KLjTU0yKS00) - GDC 2016: Alexander Bereznyak
 
-[*Skeletal Animation - From Theory and Math to Code* - FloatyMonkey](https://youtu.be/ZzMnu3v_MOw)
+[*Skeletal Animation - From Theory and Math to Code*](https://youtu.be/ZzMnu3v_MOw) - FloatyMonkey
 
-[*FABRIK (Inverse kinematics)* - EgoMoose](https://youtu.be/UNoX65PRehA)
+[*FABRIK (Inverse kinematics)*](https://youtu.be/UNoX65PRehA) - EgoMoose
 
 # Networking
-[*I Shot You First: Networking the Gameplay of Halo: Reach* - GDC](https://youtu.be/h47zZrqjgLc)
+[*I Shot You First: Networking the Gameplay of Halo: Reach*](https://youtu.be/h47zZrqjgLc) - GDC 2011: David Aldridge
 
-[*Networking for Physics Programmers by Glenn Fiedler* - GDC](https://youtu.be/Z9X4lysFr64)
+[*Networking for Physics Programmers by Glenn Fiedler*](https://youtu.be/Z9X4lysFr64) - GDC 2015: Glenn Fiedler
 
 # Mathematics
-[*The Blaze High Performance Math Library* - Klaus Iglberger](https://youtu.be/w-Y22KrMgFE)
+[*The Blaze High Performance Math Library*](https://youtu.be/w-Y22KrMgFE) - Klaus Iglberger
 
-[*Math for Game Programmers: Understanding Homogeneous Coordinates* - GDC](https://youtu.be/o1n02xKP138)
+[*Math for Game Programmers: Understanding Homogeneous Coordinates*](https://youtu.be/o1n02xKP138) - GDC 2015: Squirrel Eiserloh
 
-[*Math for Game Programmers: Mixing Geodetic, Hand-crafted and Procedural Geometry* - GDC](https://youtu.be/0A4P6MaQxTs)
-
-
+[*Math for Game Programmers: Mixing Geodetic, Hand-crafted and Procedural Geometry*](https://youtu.be/0A4P6MaQxTs) - GDC 2015: Graham Rhodes
 
 # Debugging and Developer Tools
-[*Printing Call Stack* - Stack Overflow](https://stackoverflow.com/questions/3899870/print-call-stack-in-c-or-c)
+[*Printing Call Stack*](https://stackoverflow.com/questions/3899870/print-call-stack-in-c-or-c) - Stack Overflow
 
-[*Introspections* - TeamHypersomnia](https://github.com/TeamHypersomnia/Introspector-generator)
+[*Introspections*](https://github.com/TeamHypersomnia/Introspector-generator) - TeamHypersomnia
 
