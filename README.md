@@ -64,11 +64,21 @@ Please use issues and create branches to make suggestions and comments.
 
 ## Ray Tracing
 [*Ray Tracing - Soft Shadows*](https://stackoverflow.com/a/31822904/10266364) - Stack Overflow
+
+## Mesh Shaders
+[*Turing - Mesh Shaders*](https://youtu.be/72lYVTlPfI8) - SIGGRAPH 2018: Christoph Kubisch
+
+[*Geometry Reinvented with Mesh Shading*](https://youtu.be/rLEbO0Vrzz4) - SIGGRAPH 2019: NVIDIA
+
+[*Advanced Mesh Shaders*](https://youtu.be/0sJ_g-aWriQ) - DirectX Developer Day: Martin Fuller
+
 ## Rendering APIs
 ### OpenGL
 [*OpenGL*](https://youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) - OpenGL Programming Tutorial Series by Brian Will
+
 ### D3D11
 [*C++ 3D DirectX Programming*](https://youtube.com/playlist?list=PLqCJpWy5Fohd3S7ICFXwUomYW0Wv67pDD) - D3D11 Programming Tutorial Series by ChiliTomatoNoodle
+
 ### D3D12
 [*Mesh Shaders*](https://microsoft.github.io/DirectX-Specs/d3d/MeshShader.html) - DirectX-Specs
 
@@ -87,10 +97,21 @@ Please use issues and create branches to make suggestions and comments.
 
 [*Visible Surface Algorithms*](https://youtu.be/hmlWFi1TdbI) - UC Davis Academics
 
+[*Rendering the World of Far Cry 4*](https://youtu.be/rD6KcxcCl_8) - GDC 2015: Stephen McAuley
+
+[*Temporal Reprojection Anti-Aliasing in INSIDE*](https://youtu.be/2XXS5UyNjjU) - GDC 2016: Lasse Jon Fuglsang Pedersen 
+
+## Foliage
+[*Between Tech and Art: The Vegetation of Horizon Zero Dawn*](https://youtu.be/wavnKZNSYqU) - GDC 2018: Gilbert Sanders
+
 ### Compressed Textures
 [DirectX's Compressed Textures Resources](https://docs.microsoft.com/en-us/windows/win32/direct3d9/compressed-texture-resources)
 
 [*DXT is NOT ENOUGH! Advanced texture compression for games*](https://youtu.be/7bJ-D1xXEeg) - GDC 2012: Colt McAnlis
+
+[*Adaptive Virtual Texture Rendering in Far Cry 4*](https://youtu.be/SVPMhGteeuE) - GDC 2015: Ka Chen
+
+[*Virtual Textures (aka Megatextures)*](https://youtu.be/MejJL87yNgI) - GDC 2008: Sean Barrett
 
 ### Occulusion Culling
 [*Frustrum Calculation and Culling, Hopefully Demystified*](http://davidlively.com/programming/graphics/frustum-calculation-and-culling-hopefully-demystified/) - David Lively
@@ -146,6 +167,10 @@ DigiPen Game Engine Architecture Club
 
 [*3D Physics Engine Tutorial* ](https://youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) - thebennybox
 
+[*Destructible Environments in Control: Lessons in Procedural Destruction*](https://youtu.be/kODJsQGXanU) - GDC 2020: Johannes Richter
+
+[*Cloth Self Collision with Predictive Contacts*](https://youtu.be/XUsD3xrNJH0) - GDC 2018: Chris Lewin
+
 # Game Logic
 ## AI
 [*Nuts and Bolts: Modular AI From the Ground Up*](https://youtu.be/IvK0ZlNoxjw) - GDC 2016: Kevin Dill, Christopher Dragert & Troy Humphreys
@@ -153,6 +178,8 @@ DigiPen Game Engine Architecture Club
 [*Bringing Hell to Life: AI and Full Body Animation in DOOM*](https://youtu.be/3lO1q8mQrrg) - GDC 2017: Jake Campbell
 
 [*Modular, Reusable Social Behavior In Video Game AI*](https://youtu.be/BSoB19aE9RM) - GDC 2014: Michael Mateas & Bill Ferguson 
+
+[*Creating Complex AI Behavior in Stellaris Through Data-Driven Design*](https://youtu.be/Z5LMUbjyFQM) - GDC 2017: Mehranz Amanat Bari
 
 ## ECS
 [*A Simple Entity Component System (ECS) [C++]*](https://austinmorlan.com/posts/entity_component_system/) - Austin Morlan
@@ -177,14 +204,21 @@ DigiPen Game Engine Architecture Club
 
 [*C++ SSE Optimization*](https://youtube.com/playlist?list=PLqCJpWy5FohfwOaELrhGqJlBF14xaSB_Y) - ChiliTomatoNoodle
 
-## Misellaneous
+## Procedural Generation
 [*Practical Procedural Generation for Everyone*](https://youtu.be/WumyfLEa6bU) - GDC 2017: Kate Compton
 
+[*Math for Game Programmers: Mixing Geodetic, Hand-crafted and Procedural Geometry*](https://youtu.be/0A4P6MaQxTs) - GDC 2015: Graham Rhodes
+
+## Skeletal Animations
 [*IK Rig: Procedural Pose Animation*](https://youtu.be/KLjTU0yKS00) - GDC 2016: Alexander Bereznyak
 
 [*Skeletal Animation - From Theory and Math to Code*](https://youtu.be/ZzMnu3v_MOw) - FloatyMonkey
 
 [*FABRIK (Inverse kinematics)*](https://youtu.be/UNoX65PRehA) - EgoMoose
+
+[*Freeform Animation Rigging: Evolving the Animation Pipeline*](https://youtu.be/XjMKbElVNmg) - GDC 2020: Dave Hunt
+
+[*Bringing Hell to Life: AI and Full Body Animation in DOOM*](https://youtu.be/3lO1q8mQrrg) - GDC 2017: Jake Campbell
 
 # Networking
 [*I Shot You First: Networking the Gameplay of Halo: Reach*](https://youtu.be/h47zZrqjgLc) - GDC 2011: David Aldridge
@@ -198,8 +232,16 @@ DigiPen Game Engine Architecture Club
 
 [*Math for Game Programmers: Mixing Geodetic, Hand-crafted and Procedural Geometry*](https://youtu.be/0A4P6MaQxTs) - GDC 2015: Graham Rhodes
 
+# Audio
+[*An Interactive Sound Dystopia: Real-Time Audio Processing in NieR:Automata*](https://youtu.be/BrUQdd96qzk) - GDC 2018: Shuji Kohata
+
+[*Performance Based Sound Design*](https://youtu.be/VCJJT4ZuqSg) - GDC 2017: Matt Piersall
+
+[*Next-Gen Audio in Killer Instinct*](https://youtu.be/SPQjOT3gmPY) - GDC 2014: Mick Gordon & Jean-Edouard Miclot 
+
 # Debugging and Developer Tools
 [*Printing Call Stack*](https://stackoverflow.com/questions/3899870/print-call-stack-in-c-or-c) - Stack Overflow
 
 [*Introspections*](https://github.com/TeamHypersomnia/Introspector-generator) - TeamHypersomnia
 
+[Frostbite: Implementing a Scripting Solution for Your Editor](https://youtu.be/mxs_x5ne9JY) - GDC 2015: Matthew Doell
